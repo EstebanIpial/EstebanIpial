@@ -16,6 +16,12 @@
 - :nerd_face: En constante `Aprendizaje de nuevos conocimientos`.
 - :thinking: Abierto a nuevas `oportunidades de trabajo`, aqui [MI HV](http://lnkiy.in/Ahmed_Hossam_Resume).
 - :boom: Puedes visitar [MI SITIO WEB](https://estebanipial.github.io/).
+
+---
+
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
 <br>
 
 ## 🛠️ Habilidades
