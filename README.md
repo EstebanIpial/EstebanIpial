@@ -4,23 +4,23 @@
 </p>
 <br>
 
-## <picture align="center" ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi
+## <picture align="center" ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>    Acerca de mi 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
-- :school: Soy desarollador `Junior` egresado de la carrera [Tecnologia en Sistemas](https://nortedelcauca.univalle.edu.co/estudia-univalle/pregrado/tecnologia-en-sistemas) de la [Universidad del Valle](https://www.univalle.edu.co/).
-- :technologist: Soy de los que piensan, que la mayoria de problemas pueden ser resueltos, el unico limite es tu `Imaginación`.
-- :computer: Soy desarrollador de software enfocado en el area de: `Aplicacion Web (Angular)`, `Aplicaciones Mobiles (Ionic)`.
-- :student: Proximamente estudiante de `Ingenieria de Software`.
+- :school: Soy desarrollador `Junior` egresado de la carrera [Tecnología en Sistemas](https://nortedelcauca.univalle.edu.co/estudia-univalle/pregrado/tecnologia-en-sistemas) de la [Universidad del Valle](https://www.univalle.edu.co/).
+- :technologist: Soy de los que piensan, que la mayoría de problemas pueden ser resueltos, el único límite es tu `Imaginación`.
+- :computer: Soy desarrollador de software enfocado en el área de: `Aplicacion Web (Angular)`, `Aplicaciones Mobiles (Ionic)`.
+- :student: Próximamente estudiante de `Ingenieria de Software`.
 - :nerd_face: En constante `Aprendizaje de nuevos conocimientos`.
 - :thinking: Abierto a nuevas `oportunidades de trabajo`, aqui [MI HV](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://estebanipial.github.io/).
+- :boom: Puedes visitar [MI SITIO WEB](https://estebanipial.github.io/).
 <br>
 
 ## 🛠️ Habilidades
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de Programación
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
@@ -45,31 +45,31 @@
 
 <br>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Tecnologias FrontEnd
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Tecnologías FrontEnd
 <p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+  <a href="#" target="_blank" rel="noreferrer"> <img
       src="https://skillicons.dev/icons?i=html"
       alt="html5" width="40" height="40" /> </a>
-  <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img
+  <a href="#" target="_blank" rel="noreferrer"> <img
       src="https://skillicons.dev/icons?i=css"
       alt="html5" width="40" height="40" /> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
+  <a href="#" target="_blank" rel="noreferrer"> <img
       src="https://skillicons.dev/icons?i=ts"
       alt="TypeScript" width="40" height="40" /> </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img
+  <a href="#" target="_blank" rel="noreferrer"> <img
       src="https://skillicons.dev/icons?i=angular"
       alt="angular" width="40" height="40" /> </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Tecnologias BackEnd
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Tecnologías BackEnd
 <p align="center">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+  <a href="#" target="_blank" rel="noreferrer"> <img
       src="https://skillicons.dev/icons?i=js"
       alt="nodejs" width="40" height="40" /> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+  <a href="#" target="_blank" rel="noreferrer"> <img
       src="https://skillicons.dev/icons?i=nodejs"
       alt="nodejs" width="40" height="40" /> </a> 
-  <a href="https://expressjs.com/es/" target="_blank" rel="noreferrer"> <img
+  <a href="#" target="_blank" rel="noreferrer"> <img
       src="https://skillicons.dev/icons?i=express"
       alt="express" width="40" height="40" /> </a> 
 </p>
@@ -103,7 +103,7 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Estadisticas Github 
 
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<details><summary><h3> 🔥 Racha de Estadisticas</h3></summary>
 
 ----
 	
@@ -126,7 +126,7 @@
 </details>
 
 
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+<details><summary><h3>⚡ Actividad Reciente GitHub</h3></summary>
 
 ----
 	
