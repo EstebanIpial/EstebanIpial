@@ -11,7 +11,7 @@
 
 - :school: Soy desarollador `Junior` egresado de la carrera [Tecnologia en Sistemas](https://nortedelcauca.univalle.edu.co/estudia-univalle/pregrado/tecnologia-en-sistemas) de la [Universidad del Valle](https://www.univalle.edu.co/).
 - :technologist: Soy de los que piensan, que la mayoria de problemas pueden ser resueltos, el unico limite es tu `Imaginación`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :computer: Soy desarrollador de software enfocado en el area de: `Aplicacion Web (Angular)`, `Aplicaciones Mobiles (Ionic)`.
 - :student: Proximamente estudiante de `Ingenieria de Software`.
 - :nerd_face: En constante `Aprendizaje de nuevos conocimientos`.
 - :thinking: Abierto a nuevas `oportunidades de trabajo`, aqui [MI HV](http://lnkiy.in/Ahmed_Hossam_Resume).
