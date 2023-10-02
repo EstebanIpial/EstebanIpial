@@ -14,7 +14,7 @@
 - :computer: Soy desarrollador de software enfocado en el área de: `Aplicacion Web (Angular)`, `Aplicaciones Mobiles (Ionic)`.
 - :student: Próximamente estudiante de `Ingenieria de Software`.
 - :nerd_face: En constante `Aprendizaje de nuevos conocimientos`.
-- :thinking: Abierto a nuevas `oportunidades de trabajo`, aqui [MI HV](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: Abierto a nuevas `oportunidades de trabajo`, aqui [MI HV](https://drive.google.com/drive/folders/1BRaGAuAWB-_D0iYaGLwcp1cP0_Jcn8gQ?usp=sharing).
 - :boom: Puedes visitar [MI SITIO WEB](https://estebanipial.github.io/).
 
 ---
