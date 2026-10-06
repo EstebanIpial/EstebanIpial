@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:C8BE25&height=220&section=header&text=Esteban%20Ipial%20Ayala&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Desarrollador%20Full%20Stack%20%E2%80%A2%20Angular%20%E2%80%A2%20Node.js%20%E2%80%A2%20Ionic&descSize=18&descAlignY=58&animation=fadeIn" alt="Esteban Ipial Ayala — Desarrollador Full Stack" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:C8BE25&height=220&section=header&text=Esteban%20Ipial%20Ayala&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Desarrollador%20Full%20Stack%20%E2%80%A2%20Soporte%20IT%20%E2%80%A2%20Angular%20%E2%80%A2%20Node.js%20%E2%80%A2%20PHP&descSize=18&descAlignY=58&animation=fadeIn" alt="Esteban Ipial Ayala — Desarrollador Full Stack" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=C8BE25&center=true&vCenter=true&width=700&height=50&lines=Construyo+plataformas+web+y+apps+m%C3%B3viles;Del+an%C3%A1lisis+del+negocio+al+despliegue;Migraci%C3%B3n+de+sistemas+heredados+a+la+web;Ingenier%C3%ADa+de+Sistemas+%E2%80%94+9.%C2%B0+semestre" alt="Construyo plataformas web y apps móviles" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=C8BE25&center=true&vCenter=true&width=700&height=50&lines=Construyo+plataformas+web+y+apps+m%C3%B3viles;Ahora+tambi%C3%A9n+en+Soporte+IT;Creando+un+aplicativo+de+inventarios+en+PHP;Del+an%C3%A1lisis+del+negocio+al+despliegue;Migraci%C3%B3n+de+sistemas+heredados+a+la+web;Ingenier%C3%ADa+de+Sistemas+%E2%80%94+9.%C2%B0+semestre" alt="Construyo plataformas web y apps móviles" />
   </a>
 </p>
 
@@ -27,9 +27,31 @@ Soy **Ingeniero de Sistemas en formación** (9.° semestre) y **Tecnólogo en Si
 
 Tengo bases lógicas y analíticas sólidas que me permiten adaptarme rápido a cualquier arquitectura, infraestructura cloud o requerimiento de negocio. Soy de los que piensan que la mayoría de los problemas pueden resolverse: el único límite es la imaginación.
 
-- Actualmente soy Desarrollador Full Stack en **Edificaciones de Occidente SAS**.
+- Actualmente hago mi etapa práctica como **Aprendiz de Soporte IT**, y allí desarrollo un **aplicativo en PHP para la gestión de inventarios**.
+- Vengo de más de dos años como **Desarrollador Full Stack**, llevando productos desde el análisis hasta producción.
 - Estudio **Ingeniería de Sistemas** en jornada nocturna en la Institución Universitaria Antonio José Camacho.
 - Me interesan los roles de desarrollo de software, análisis de datos y soporte TI de alto impacto.
+
+## <img src="https://api.iconify.design/fluent-color/lightbulb-24.svg?width=26&height=26" width="26" height="26" alt="" />&nbsp; En qué estoy ahora
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/fluent-color/headset-24.svg?width=24&height=24" width="24" height="24" alt="" />&nbsp; Aprendiz de Soporte IT</h3>
+      Estoy del otro lado del software: atiendo a los usuarios, diagnostico sus incidencias y mantengo operativos los equipos y sistemas que usan a diario.
+      <br /><br />
+      <b>No lo veo como un desvío, sino como un impulso para mi carrera.</b> Entender la infraestructura y ver de cerca cómo trabaja la gente con la tecnología me hace mejor desarrollador: construyo pensando en quien usa, opera y mantiene el sistema.
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/fluent-color/toolbox-24.svg?width=24&height=24" width="24" height="24" alt="" />&nbsp; Aplicativo de inventarios en PHP</h3>
+      Me asignaron diseñar y construir un aplicativo en <b>PHP</b> para gestionar el inventario de la empresa.
+      <br /><br />
+      Es la mezcla que más disfruto: detectar una necesidad real desde soporte y resolverla con software hecho a la medida.
+      <br /><br />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30" height="30" alt="PHP" title="PHP" />&nbsp; <sub>En desarrollo</sub>
+    </td>
+  </tr>
+</table>
 
 ## <img src="https://api.iconify.design/fluent-color/apps-24.svg?width=26&height=26" width="26" height="26" alt="" />&nbsp; Qué hago
 
@@ -64,13 +86,35 @@ Tengo bases lógicas y analíticas sólidas que me permiten adaptarme rápido a 
       Levantamiento de requerimientos, pruebas de aceptación (UAT), tableros <b>Kanban</b> en GitHub y documentación técnica de arquitectura.
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/fluent-color/headset-24.svg?width=24&height=24" width="24" height="24" alt="" />&nbsp; Soporte TI</h3>
+      Atención y soporte técnico a usuarios finales, diagnóstico de incidencias y continuidad operativa de equipos y sistemas.
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="https://api.iconify.design/fluent-color/toolbox-24.svg?width=24&height=24" width="24" height="24" alt="" />&nbsp; Software a la medida</h3>
+      Herramientas internas que nacen de necesidades reales de la operación, como el aplicativo de inventarios en <b>PHP</b> que desarrollo actualmente.
+    </td>
+  </tr>
 </table>
 
 ## <img src="https://api.iconify.design/fluent-color/briefcase-24.svg?width=26&height=26" width="26" height="26" alt="" />&nbsp; Experiencia
 
+### Aprendiz de Soporte IT — Etapa práctica
+
+<sub>Julio 2026 – Actualidad</sub>
+
+- **Soporte a usuarios:** atiendo y doy seguimiento a las solicitudes e incidencias técnicas de los usuarios de la empresa.
+- **Desarrollo de un aplicativo de inventarios:** me asignaron construir un aplicativo en **PHP** para gestionar el inventario, aplicando mi experiencia previa como desarrollador Full Stack.
+- **Visión completa de TI:** sumo el lado de infraestructura y operación a mi perfil de desarrollo, un paso que me permite avanzar hacia roles más integrales.
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="24" height="24" alt="PHP" title="PHP" />
+</p>
+
 ### Edificaciones de Occidente SAS — Desarrollador Full Stack
 
-<sub>Octubre 2023 – Actualidad &nbsp;·&nbsp; Cali, Colombia &nbsp;·&nbsp; Remoto / Híbrido</sub>
+<sub>Octubre 2023 – 2026 &nbsp;·&nbsp; Cali, Colombia &nbsp;·&nbsp; Remoto / Híbrido</sub>
 
 - **Migración del ecosistema core:** diseñé y lideré la migración del sistema corporativo de gestión de seguridad social, llevando la lógica visual de una aplicación de escritorio heredada a una arquitectura web moderna con **Angular, Node.js y MariaDB**, y optimizando la experiencia operativa para cuentas de gran escala.
 - **Evolución Full Stack autónoma:** asumí el ciclo de vida completo del desarrollo: análisis de negocio inicial, diseño de la base de datos relacional y construcción de APIs e integraciones en el backend.
@@ -122,7 +166,8 @@ Tengo bases lógicas y analíticas sólidas que me permiten adaptarme rápido a 
     <td><b>Backend y APIs</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js" />&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg#gh-light-mode-only" width="40" height="40" alt="Express" title="Express" /><img src="https://cdn.simpleicons.org/express/white#gh-dark-mode-only" width="40" height="40" alt="Express" title="Express" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg#gh-light-mode-only" width="40" height="40" alt="Express" title="Express" /><img src="https://cdn.simpleicons.org/express/white#gh-dark-mode-only" width="40" height="40" alt="Express" title="Express" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP" />
       <br /><sub>REST APIs · Microservicios</sub>
     </td>
   </tr>
@@ -152,6 +197,12 @@ Tengo bases lógicas y analíticas sólidas que me permiten adaptarme rápido a 
       <br /><sub>Metodologías ágiles · Tableros Kanban</sub>
     </td>
   </tr>
+  <tr>
+    <td><b>Soporte TI</b></td>
+    <td>
+      <sub>Soporte técnico a usuarios finales · Diagnóstico de incidencias · Continuidad operativa · Documentación técnica</sub>
+    </td>
+  </tr>
 </table>
 
 ## <img src="https://api.iconify.design/fluent-color/checkmark-circle-24.svg?width=26&height=26" width="26" height="26" alt="" />&nbsp; Competencias
@@ -161,6 +212,7 @@ Tengo bases lógicas y analíticas sólidas que me permiten adaptarme rápido a 
 | **Continuidad operativa** | Mantener en producción sistemas de gestión críticos sin interrupciones. |
 | **Autonomía** | Llevar un producto de punta a punta: análisis, datos, backend, frontend y despliegue. |
 | **Trabajo con usuarios** | Refinar requerimientos, coordinar UAT y dar soporte técnico a usuarios finales. |
+| **Soporte y desarrollo** | Entender el problema desde la mesa de soporte y resolverlo con software cuando hace falta. |
 | **Documentación** | Documentar arquitectura y sistemas para que el conocimiento no dependa de una sola persona. |
 | **Reportería y analítica** | Construir reportes y analítica corporativa a partir de los datos del negocio. |
 | **Metodologías ágiles** | Priorizar y dar seguimiento al trabajo con tableros Kanban. |
